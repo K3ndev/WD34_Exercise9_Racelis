@@ -1,0 +1,15 @@
+/* #D68114, #FFFFFF, #651702, #BFA84C, #4D5126 */
+:root {
+  /* main */
+  --orange: #d68114;
+  --shadow: #303c47;
+  --dirty_white: #fcfaed;
+
+  --brown: #651702;
+  --yellow_light: #bfa84c;
+  --yellow_dark: #4d5126;
+
+  /* text */
+  --white: #ffffff;
+  --hover: #ffffffbf;
+}

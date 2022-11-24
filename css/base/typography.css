@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Yeseva+One&display=swap");
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+  /* 300, 400, 500, 600, 700 */
+}
+
+.font-yeseva {
+  font-family: "Yeseva One", cursive;
+  /* 400 */
+}
+
+/* font size, line height */
+.text-header {
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+}
+@media (min-width: 768px) {
+  .text-header {
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.75rem; /* 28px */
+  }
+}
+
+.text-header-button {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+}
+
+@media (min-width: 768px) {
+  .text-header-button {
+    font-size: 1rem; /* 16px */
+    line-height: 1.5rem; /* 24px */
+  }
+}
+
+/* footer */
+
+.text-header-nav-list {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+}
+
+.text-header-nav-copyright {
+  font-size: 0.75rem; /* 12px */
+  line-height: 1rem; /* 16px */
+}
+
+@media (min-width: 768px) {
+  .text-header-nav-list {
+    font-size: 1rem; /* 16px */
+    line-height: 1.5rem; /* 24px */
+  }
+  .text-header-nav-copyright {
+    font-size: 0.875rem; /* 14px */
+    line-height: 1.25rem; /* 20px */
+  }
+}
+
+.text-footer {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+}
+
+/* weight */
+.font-bold {
+  font-weight: 700;
+}
