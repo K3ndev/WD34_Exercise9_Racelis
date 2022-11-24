@@ -4,6 +4,9 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
+
+  /* silly method, bad code -- because of the image from hero section */
+  overflow-x: hidden;
 }
 main {
   flex: 1 1 0%;
